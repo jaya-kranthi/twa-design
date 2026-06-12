@@ -19,8 +19,8 @@ TWA (Tropical Weather Analytics) is building a cloud-native, subscription-based 
 |-------|--------|
 | Discovery | ✅ 2026-06-11 |
 | UX approved | ✅ 2026-06-12 |
-| Stack | ⬜ Pending |
-| Tech spec | ⬜ Pending |
+| Stack | ✅ 2026-06-12 |
+| Tech spec | ✅ 2026-06-12 |
 | Backlog generated | ⬜ Pending |
 | Frontend / backend / infra scaffolded | ⬜ Pending |
 
