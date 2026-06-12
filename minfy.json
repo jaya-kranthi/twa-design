@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "project_id": "twa",
+  "name": "twa-design",
+  "scaffolded_by": "scaffold-design",
+  "template": "design-repo-mockups-only",
+  "mockups_only": true,
+  "remote": "https://github.com/jaya-kranthi/twa-design.git",
+  "deploy_urls": { "mockup": "" }
+}
