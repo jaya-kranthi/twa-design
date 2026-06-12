@@ -11,6 +11,21 @@ TWA (Tropical Weather Analytics) is building a cloud-native, subscription-based 
 
 > Clone any project repo, then run `/minfyr:status` for the full live view.
 
+**Project shape:** full-stack · **Flow:** ux-first
+
+## Stage
+
+| Stage | Status |
+|-------|--------|
+| Discovery | ✅ 2026-06-11 |
+| UX approved | ✅ 2026-06-12 |
+| Stack | ⬜ Pending |
+| Tech spec | ⬜ Pending |
+| Backlog generated | ⬜ Pending |
+| Frontend / backend / infra scaffolded | ⬜ Pending |
+
+**Live mockup preview:** https://jaya-kranthi.github.io/twa-design/
+
 ## Mockups
 
 Static HTML mockups land in `mockups/` and auto-deploy to GitHub Pages on every push to `main`.
